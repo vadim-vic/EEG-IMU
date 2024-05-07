@@ -7,9 +7,9 @@ This project collects tools for forecasting models of multimodal spatial times s
    
 These time series are originated from a person's measurements during a session. Assume a session lasts 10 minutes to one hour. There might be several sessions of one participant. A group of participants might be observed.
 ## Progress
-1. April Introduction to Sugihara's CCM
-2. April Models of time series analysis
-3. April Long-term monitoring of physical workers
-4. May The pipeline of EEG-IMU processing
-5. May Quasi-supervised learning and health monitoring
+1. April 18. Introduction to Sugihara's CCM, (pdf)[IMU-EEG 1.pdf]
+2. April 22. Models of time series analysis, (pdf)[IMU-EEG 2.pdf]
+3. April 26. Long-term monitoring of physical workers, (pdf)[IMU-EEG 3.pdf]
+4. May 7. The pipeline of EEG-IMU processing, (pdf)[IMU-EEG 4.pdf]
+5. May ?. Quasi-supervised learning and health monitoring, (pdf)[]
 
