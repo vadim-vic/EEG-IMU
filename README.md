@@ -11,5 +11,7 @@ These time series are originated from a person's measurements during a session. 
 2. April 22. Models of time series analysis, [pdf](EEG-IMU 2.pdf)
 3. April 26. Long-term monitoring of physical workers, [pdf](EEG-IMU 3.pdf)
 4. May 7. The pipeline of EEG-IMU processing, [pdf](EEG-IMU 4.pdf)
-5. May 13. Quasi-supervised learning and health monitoring, [pdf](EEG-IMU 5.pdf)
+5. May 13. Specification of challenges and useful datasets, [pdf](EEG-IMU 5.pdf)
+6. May ??. Quasi-supervised learning and health monitoring, [pdf](EEG-IMU 6.pdf)
+   
 
