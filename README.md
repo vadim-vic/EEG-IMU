@@ -13,5 +13,6 @@ These time series are originated from a person's measurements during a session. 
 4. May 7. The pipeline of EEG-IMU processing, [pdf](EEG-IMU 4.pdf)
 5. May 13. Specification of challenges and useful datasets, [pdf](EEG-IMU 5.pdf)
 6. May ??. Quasi-supervised learning and health monitoring, [pdf](EEG-IMU 6.pdf)
+7. Jun 25. Research plan for the project [pdf](EEG-IMU 10.pdf)
    
 
