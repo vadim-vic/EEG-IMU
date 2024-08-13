@@ -15,5 +15,7 @@ These time series are originated from a person's measurements during a session. 
 6. May ??. Quasi-supervised learning and health monitoring, [pdf](/EEG-IMU_6.pdf)
 7. Jun 25. Research plan for the project [pdf](/EEG-IMU 10.pdf)
 8. Jul 5. BibTeX and Latex [bib](/EEGdecodeReview.bib)
-   
+9. Aug 13 Towards EEG inverse problem using fMRI [txt](/EEG-IMU_11)
+11. Aug 13. Does the spectator see a white horse (after Berezutstaya's paper) [txt](EEG-IMU_12)
+12. 
 
