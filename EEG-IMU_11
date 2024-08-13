@@ -1,0 +1,15 @@
+The hypothesis. There is a significant relationship between EEG signals and fMRI. This relationship is expressed after stimulus onset. The event-related potential, observed after the event, manifests a change in the fMRI image with a small delay. EEG is a superposition of several signals generated in different parts of a human brain. The examined relationship is the signal generator changes the blood oxygen level in the neighborhood.
+
+The outcome. The EEG signal analysis requires a robust decomposition algorithm.  The EEG-fMRI relationship provides prior information about the signal generators and their features. It solves the inverse EEG problem and boosts the quality of the EEG signal analysis which is mandatory for real-time physical motion prediction.
+
+The model. To test the relationship the casualty inference goes in a low-dimensional latent space using the Canonical Correlation Analysis Principle. To select an adequate model, both spaces, source EEG and target fMRI, are decomposed separately and then fine-tuned with fixed model hyperparameters and pre-tuned parameters. 
+
+Algorithm. 
+
+1. Find a dataset with a synchronous fMRI and EEG timeline. The stimulus event-related markup is highly welcome. The ideal case is a separate time series. In the worst case, it is marked up by a separate one-class model. 
+
+2. Run autocorrelation test in both latent spaces. The maximum of the autocorrelation function must relate to the stimulus onsets. The latent space of the EEG in the first ICA components in the Riemannian space over selected electrodes. The electrode selection must be performed with respect to their spatial placement. The latent space of the fMRI is a convolution over the 3D space. The autocorrelation test delivers locations and time-events to search among.
+
+3. With the autocorrelation function, the uncertainty analysis is highly welcome. It presents the shrinkage of the prior distribution of signals to the posterior ones in the delivered locations and events.
+
+4. Run the cross-correlation test between the listed locations and events to find and show the relationship. The Convergent Cross-Mapping procedure is suggested to align the spatial and time displacements of the examined relationships.
