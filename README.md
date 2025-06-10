@@ -22,6 +22,7 @@ These time series originate from a person's measurements during a session. Assum
 9. Aug 13 Towards EEG inverse problem using fMRI [txt](/docs/EEG-IMU-11-txt)
 11. Aug 13. Does the spectator see a white horse (after Berezutstaya's paper) [txt](EEG-IMU_12)
 12. Jun 9, 2025. Emotiv versus Neurosity devices comparison [pdf](/docs/EEG-IMU-13.pdf)
+13. Jun 10. Dimensionality reduction in the control problem [pdf](/docs/EEG-IMU-14.pdf)
 
 
     
