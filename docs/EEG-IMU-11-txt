@@ -2,7 +2,7 @@ The hypothesis. There is a significant relationship between EEG signals and fMRI
 
 The outcome. The EEG signal analysis requires a robust decomposition algorithm.  The EEG-fMRI relationship provides prior information about the signal generators and their features. It solves the inverse EEG problem and boosts the quality of the EEG signal analysis which is mandatory for real-time physical motion prediction.
 
-The model. To test the relationship the casualty inference goes in a low-dimensional latent space using the Canonical Correlation Analysis Principle. To select an adequate model, both spaces, source EEG and target fMRI, are decomposed separately and then fine-tuned with fixed model hyperparameters and pre-tuned parameters. 
+The model. To test the relationship, the casualty inference goes in a low-dimensional latent space using the Canonical Correlation Analysis Principle. To select an adequate model, both spaces, source EEG and target fMRI, are decomposed separately and then fine-tuned with fixed model hyperparameters and pre-tuned parameters. 
 
 Algorithm. 
 
