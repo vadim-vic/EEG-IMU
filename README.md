@@ -6,6 +6,10 @@ This project collects tools for forecasting models of multimodal spatial time se
 3. Pulse wave, breathe wave ([p,b], time)
    
 These time series originate from a person's measurements during a session. Assume a session lasts 10 minutes to one hour. There might be several sessions for one participant. A group of participants might be observed.
+
+<!-- ![An example of the centrois](/docs/signal.png)<br>
+*The figure shows the IMU acceleration part.* -->
+
 ## Content
 2. April 22, 2024. Models of time series analysis [pdf](/docs/EEG-IMU-2.pdf)
 1. April 18. Introduction to Sugihara's CCM [pdf](/docs/EEG-IMU-1.pdf)
