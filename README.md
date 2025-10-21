@@ -23,6 +23,4 @@ These time series originate from a person's measurements during a session. Assum
 11. Aug 13. Does the spectator see a white horse (after Berezutstaya's paper) [txt](EEG-IMU_12)
 12. Jun 9, 2025. Emotiv versus Neurosity devices comparison [pdf](/docs/EEG-IMU-13.pdf)
 13. Jun 10. Dimensionality reduction in the control problem [pdf](/docs/EEG-IMU-14.pdf)
-
-
-    
+14. Oct 21. Plan to create a technical specification for IMU data [pdf](/docs/EEG-IMU-15.pdf)
