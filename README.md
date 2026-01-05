@@ -25,3 +25,4 @@ These time series originate from a person's measurements during a session. Assum
 13. Jun 10. Dimensionality reduction in the control problem [pdf](/docs/EEG-IMU-14.pdf)
 14. Oct 21. Plan to create a technical specification for IMU data [pdf](/docs/EEG-IMU-15.pdf)
 15. Nov 5. Planning the measurements [pdf](/docs/EEG-IMU-16.pdf)
+16. Jan 5, 2026 LSL: Lab Stream Layer data plot, 8 streams [pdf](/docs/EEG-IMU-17.pdf)
